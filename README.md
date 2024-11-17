@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on micro-services  implementation .<br>👯‍♀️ I am willing to collaborate on software development and spring boot projects.<br>🤝 I am looking in help with Kafka , Rabbitmq and Kubernetes.<br>🌱 I'm currently leaning kafka and Kubernetes .<br>💬 Ask me about Software Engineering and Software Security Basics.<br>⚡️ Fun fact I scroll Insta on free time but if I start learning I will invest my maximum Time in that.
+🔭 I am currently working on micro-services  implementation .<br>👯‍♀️ I am willing to collaborate on software development and spring boot projects.<br>🤝 I am looking in help with Kafka , Rabbitmq and Kubernetes.<br>🌱 I'm currently learning kafka and Kubernetes .<br>💬 Ask me about Software Engineering and Software Security Basics.<br>⚡️ Fun fact I scroll Insta on free time but if I start learning I will invest my maximum Time in that.
 
 
 ## 🌐 Socials:
