@@ -171,13 +171,9 @@ through **software engineering and application security fundamentals**.
 
 ## Activity
 
-<p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=oroV2&theme=dark&hide_border=true&border_radius=8">
-</p>
-
 > [!TIP]
-> The contribution graph on my profile includes private contributions, so it reflects the enterprise
-> work described above rather than just the public repositories below it.
+> The contribution graph on this profile includes private contributions, so it reflects the enterprise
+> work described above rather than only the public repositories.
 
 ---
 
