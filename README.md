@@ -179,4 +179,4 @@ through **software engineering and application security fundamentals**.
 
 ## Connect
 
-[**Portfolio**](https://orov2.github.io) · [**LinkedIn**](https://www.linkedin.com/in/onkar-pawar-software-engineer/) · [**Stack Overflow**](https://stackoverflow.com/users/14092691/onkar-pawar) · [**Quora**](https://www.quora.com/profile/Onkar-Pawar-18) · [onkarpawar58@gmail.com](mailto:onkarpawar58@gmail.com)
+[**Portfolio**](https://orov2.github.io) · [**LinkedIn**](https://www.linkedin.com/in/onkar-pawar-software-engineer/) · [**Stack Overflow**](https://stackoverflow.com/users/14092691/onkar-pawar) · [**Quora**](https://www.quora.com/profile/Onkar-Pawar-18) · [onkarpawar58@gmail.com](mailto:onkarpawar.op58@gmail.com)
