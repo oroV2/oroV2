@@ -19,11 +19,12 @@
 
 ## About
 
-Java Backend Developer with **4+ years** designing, developing and maintaining scalable backend
-applications and microservices using **Java** and **Spring Boot**. I work on secure, high-availability
-enterprise systems — improving application performance through microservices architecture and Spring
-Cloud Gateway, and strengthening security via AES encryption, LDAP, and JWT-based authentication and
-authorization. Comfortable across Docker, CI/CD pipelines and cross-functional Agile delivery.
+Senior Java Developer with **4+ years** building secure, scalable backend systems for banking, fintech and
+enterprise clients with **Java**, **Spring Boot** and **Oracle**. At IDBI Intech I develop PFMS
+bank-integration services for two bank clients (CSB Bank through APIs, Equitas Bank through database
+linkage) and microservices with Spring Cloud Gateway, Eureka, LDAP and JWT. On my own I build products
+such as **Koshanvaya**, a manufacturing and job-work ERP. I use AI assistants (Claude.ai, ChatGPT) to move
+faster, and I review and test everything I ship.
 
 > [!NOTE]
 > **Most of my engineering work lives in private enterprise repositories.** The public repos on this
@@ -42,7 +43,7 @@ endpoints, schemas or proprietary code.
 | :--- | :--- | :--- | :--- |
 | **IDBI Intech** | Senior Executive | Oct 2024 – Present | PFMS bank-integration services for two bank clients, CSB Bank (API integration) and Equitas Bank (database linkage), developed with ChatGPT (free version) assistance: payment request/response, account validation, balances, statements, DSC and file processing on Spring Boot, plus Spring Cloud Gateway / Eureka microservices with AES-encrypted communication. |
 | **Nexstep Infotech** *(Expenzing)* | Software Engineer | Jan 2022 – Aug 2024 | Procure-to-Pay and Travel &amp; Expense mobile applications — multi-attachment support, OCR on invoices and expense vouchers, map functionality, UI/UX upgrades, plus VAPT remediation across the stack. |
-| **Tritorc** | IT Technical Engineer | May 2021 – Sept 2021 | Network and desktop infrastructure across Windows Server and Linux — Active Directory, DNS, DHCP, TCP/IP and VPN for 30+ systems. || **Independent** | Solo engineer | 2026 | Koshanvaya, a ledger-first manufacturing and job-work ERP (Spring Boot, Oracle 23ai, React), plus the [Black Tech Secure Solutions](https://blacktechsecuresolutions.in) website and the [Arthasetu](https://arthasetu-ui.pages.dev/applications) finance-console prototype, all built with Claude.ai assistance. |
+| **Tritorc** | IT Technical Engineer | May 2021 – Sept 2021 | Network and desktop infrastructure across Windows Server and Linux — Active Directory, DNS, DHCP, TCP/IP and VPN for 30+ systems. |
 | **Independent** | Solo engineer | 2026 | Koshanvaya, a ledger-first manufacturing and job-work ERP (Spring Boot, Oracle 23ai, React), plus the [Black Tech Secure Solutions](https://blacktechsecuresolutions.in) website and the [Arthasetu](https://arthasetu-ui.pages.dev/applications) finance-console prototype, all built with Claude.ai assistance. |
 
 
@@ -52,6 +53,17 @@ endpoints, schemas or proprietary code.
 | :--- | :--- | :--- |
 | **70%** application performance improvement | **40%** enterprise security compliance increase | **30%** code efficiency improvement |
 | **7+** microservices architected &amp; deployed | **20%** reduction in repetitive coding effort | **15%** reduction in system downtime |
+
+---
+
+## Projects
+
+| Project | What it is | Stack | Built with |
+| :--- | :--- | :--- | :--- |
+| **PFMS Bank Integration Services** *(IDBI Intech, CSB Bank &amp; Equitas Bank)* | 20+ Spring Boot services connecting PFMS/CPSMS to two banks: payments, account validation, balances, statements, DSC, NACH files. CSB via API, Equitas via database linkage. | Java, Spring Boot, WebFlux, Oracle, MySQL, React | ChatGPT (free version) |
+| **Koshanvaya** *(private client project)* | Ledger-first manufacturing and job-work ERP: GST/TDS/MSME, job work, BOM costing, multi-tenant, 360+ tests. | Spring Boot 4, Oracle 23ai, React, TypeScript | Claude.ai |
+| **[Arthasetu](https://arthasetu-ui.pages.dev/applications)** | Unified government finance console prototype (fixture data). | React, Cloudflare Pages | Claude.ai |
+| **[blacktechsecuresolutions.in](https://blacktechsecuresolutions.in)** | Company website for a security-first software practice. | Web, SEO, custom domain | Claude.ai |
 
 ---
 
@@ -67,6 +79,7 @@ endpoints, schemas or proprietary code.
 **Frameworks**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Cloud Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
@@ -82,6 +95,7 @@ endpoints, schemas or proprietary code.
 
 **Data &amp; servers**
 
+![Oracle 23ai](https://img.shields.io/badge/Oracle_23ai-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
@@ -93,6 +107,8 @@ endpoints, schemas or proprietary code.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-4B5563?style=flat-square&logo=githubactions&logoColor=white)
+![Claude.ai](https://img.shields.io/badge/Claude.ai-D97757?style=flat-square)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white)
 
@@ -133,4 +149,4 @@ through **software engineering and application security fundamentals**.
 
 ## Connect
 
-[**Portfolio**](https://orov2.github.io) · [**LinkedIn**](https://www.linkedin.com/in/onkar-pawar-software-engineer/) · [**Stack Overflow**](https://stackoverflow.com/users/14092691/onkar-pawar) · [**Quora**](https://www.quora.com/profile/Onkar-Pawar-18) · [onkarpawar58@gmail.com](mailto:onkarpawar.op58@gmail.com)
+[**Portfolio**](https://orov2.github.io) · [**LinkedIn**](https://www.linkedin.com/in/onkar-pawar-software-engineer/) · [**Stack Overflow**](https://stackoverflow.com/users/14092691/onkar-pawar) · [**Quora**](https://www.quora.com/profile/Onkar-Pawar-18) · [onkarpawar58@gmail.com](mailto:onkarpawar58@gmail.com)
