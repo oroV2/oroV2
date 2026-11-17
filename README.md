@@ -43,6 +43,7 @@ endpoints, schemas or proprietary code.
 | **IDBI Intech** | Senior Executive | Oct 2024 – Present | PFMS bank-integration services for two bank clients, CSB Bank (API integration) and Equitas Bank (database linkage): payment request/response, account validation, balances, statements, DSC and file processing on Spring Boot, plus Spring Cloud Gateway / Eureka microservices with AES-encrypted communication. |
 | **Nexstep Infotech** *(Expenzing)* | Software Engineer | Jan 2022 – Aug 2024 | Procure-to-Pay and Travel &amp; Expense mobile applications — multi-attachment support, OCR on invoices and expense vouchers, map functionality, UI/UX upgrades, plus VAPT remediation across the stack. |
 | **Tritorc** | IT Technical Engineer | May 2021 – Sept 2021 | Network and desktop infrastructure across Windows Server and Linux — Active Directory, DNS, DHCP, TCP/IP and VPN for 30+ systems. || **Independent** | Solo engineer | 2026 | Koshanvaya, a ledger-first manufacturing and job-work ERP (Spring Boot, Oracle 23ai, React), plus the [Black Tech Secure Solutions](https://blacktechsecuresolutions.in) website and the [Arthasetu](https://arthasetu-ui.pages.dev/applications) finance-console prototype. |
+| **Independent** | Solo engineer | 2026 | Koshanvaya, a ledger-first manufacturing and job-work ERP (Spring Boot, Oracle 23ai, React), plus the [Black Tech Secure Solutions](https://blacktechsecuresolutions.in) website and the [Arthasetu](https://arthasetu-ui.pages.dev/applications) finance-console prototype. |
 
 
 ### Measured impact
