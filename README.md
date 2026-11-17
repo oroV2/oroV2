@@ -40,9 +40,10 @@ endpoints, schemas or proprietary code.
 
 | Where | Role | Period | What I build |
 | :--- | :--- | :--- | :--- |
-| **IDBI Intech** | Senior Executive | Oct 2024 – Present | A secure microservices platform built from scratch: React.js frontend with LDAP login, Spring Cloud Gateway for centralised auth and call filtering, Eureka service discovery, and end-to-end AES-encrypted communication across 7+ Spring Boot services. |
+| **IDBI Intech** | Senior Executive | Oct 2024 – Present | PFMS bank-integration services for two bank clients, CSB Bank (API integration) and Equitas Bank (database linkage): payment request/response, account validation, balances, statements, DSC and file processing on Spring Boot, plus Spring Cloud Gateway / Eureka microservices with AES-encrypted communication. |
 | **Nexstep Infotech** *(Expenzing)* | Software Engineer | Jan 2022 – Aug 2024 | Procure-to-Pay and Travel &amp; Expense mobile applications — multi-attachment support, OCR on invoices and expense vouchers, map functionality, UI/UX upgrades, plus VAPT remediation across the stack. |
-| **Tritorc** | IT Technical Engineer | May 2021 – Sept 2021 | Network and desktop infrastructure across Windows Server and Linux — Active Directory, DNS, DHCP, TCP/IP and VPN for 30+ systems. |
+| **Tritorc** | IT Technical Engineer | May 2021 – Sept 2021 | Network and desktop infrastructure across Windows Server and Linux — Active Directory, DNS, DHCP, TCP/IP and VPN for 30+ systems. || **Independent** | Solo engineer | 2026 | Koshanvaya, a ledger-first manufacturing and job-work ERP (Spring Boot, Oracle 23ai, React), plus the [Black Tech Secure Solutions](https://blacktechsecuresolutions.in) website and the [Arthasetu](https://arthasetu-ui.pages.dev/applications) finance-console prototype. |
+
 
 ### Measured impact
 
@@ -50,54 +51,6 @@ endpoints, schemas or proprietary code.
 | :--- | :--- | :--- |
 | **70%** application performance improvement | **40%** enterprise security compliance increase | **30%** code efficiency improvement |
 | **7+** microservices architected &amp; deployed | **20%** reduction in repetitive coding effort | **15%** reduction in system downtime |
-
----
-
-## Architecture I work with
-
-The secure microservices platform I built at IDBI Intech, at a shareable level:
-
-```mermaid
-flowchart TD
-    C["React.js client<br/>LDAP login · AES-encrypted payloads"]
-    G["Spring Cloud Gateway Server<br/>centralised auth · call filtering"]
-    L["LDAP directory<br/>enterprise authentication"]
-    E["Eureka Server<br/>discovery · load balancing"]
-    S1["Microservice<br/>Spring Boot · Java 17"]
-    S2["Microservice<br/>Spring Boot · Java 17"]
-    S3["Microservice<br/>7+ services deployed"]
-    D[("MySQL / Oracle<br/>Hibernate · token store")]
-
-    C -->|"AES / HTTPS"| G
-    G <--> L
-    G <--> E
-    G -->|"JWT + DB token"| S1
-    G -->|"JWT + DB token"| S2
-    G -->|"JWT + DB token"| S3
-    S1 --> D
-    S2 --> D
-    S3 --> D
-```
-
-<details>
-<summary><b>How the security layers fit together</b></summary>
-
-<br/>
-
-| Layer | Mechanism |
-| :--- | :--- |
-| Client → Gateway | AES encryption with PKCS7 padding on request and response bodies |
-| Authentication | LDAP directory login, handled centrally at the gateway |
-| Gateway → Services | Multi-level JWT plus database-driven token authentication |
-| Service → Service | End-to-end AES-encrypted data exchange |
-| Discovery | Eureka for service registration, discovery and load balancing |
-| Delivery | Docker images deployed through CI/CD pipelines |
-
-Earlier, at Expenzing, I worked through VAPT findings on the mobile stack — SSL pinning, encrypted
-body transmission, session handling, single-response services, multiple-login prevention, broken
-authentication prevention and rooted-device blocking.
-
-</details>
 
 ---
 
